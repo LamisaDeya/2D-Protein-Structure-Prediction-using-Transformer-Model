@@ -1,0 +1,14 @@
+Detailed Classification Report:
+==================================================
+                precision    recall  f1-score   support
+
+     Helix (H)       0.50      0.58      0.53       158
+      Coil (C)       0.94      0.91      0.93      1136
+Beta-sheet (B)       0.20      0.30      0.24        10
+
+      accuracy                           0.87      1304
+     macro avg       0.55      0.60      0.57      1304
+  weighted avg       0.88      0.87      0.87      1304
+
+Per-residue Classification Accuracy: 86.89%
+Final Test Accuracy: 85.61%
